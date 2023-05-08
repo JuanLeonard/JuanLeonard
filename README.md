@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning the ins and outs of software developing and programming.
+I'm looking to collaborate on projects to get better at entry-level developing.
+How to reach me: email @ juanzleonard012@gmail.com
+Fun fact: I never coded anything before, but I like it so far!
