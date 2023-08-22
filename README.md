@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently learning the ins and outs of software developing and programming.
-I'm looking to collaborate on projects to get better at entry-level developing.
-How to reach me: email @ juanzleonard012@gmail.com
-Fun fact: I never coded anything before, but I like it so far!
+When I was still wet behind the ears, my mother introduced me to a digital piano. While I fell in love with banging on the keys, she grimaced in the background... because I was a hot mess.
+
+Since then I’ve cleaned up my act and helped others do the same by audio engineering their ideas, using my power of affective communication to build on concepts, manage projects, and maintain meaningful relationships from behind to beyond a computer.
+
+My goal is to build that connection between tech and the people through software development, especially for the kids that think they don’t have a reach to affect anyone or anything outside of their surroundings. I want to be the example of the opposite, being able to positively impact the lives of others one key at a time.
